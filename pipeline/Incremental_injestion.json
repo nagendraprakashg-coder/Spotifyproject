@@ -73,13 +73,13 @@
 			}
 		],
 		"parameters": {
-			"Schema": {
+			"container": {
 				"type": "string"
 			},
-			"Table": {
+			"folder": {
 				"type": "string"
 			},
-			"cdc_col": {
+			"file": {
 				"type": "string"
 			}
 		},
