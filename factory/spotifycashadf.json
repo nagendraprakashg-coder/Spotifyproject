@@ -1,0 +1,9 @@
+{
+	"name": "spotifycashadf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fcb71744-d6ff-4105-aa26-66f4808d61f7",
+		"tenantId": "01fe23da-60aa-4e60-acc2-ceddd558db2e"
+	}
+}
